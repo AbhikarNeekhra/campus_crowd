@@ -1,0 +1,16 @@
+@media only screen and (width< 700px) {
+    .liss{
+        display: none;
+    }
+
+    .sear{
+        display: none;
+    }
+
+  }
+
+  @media only screen and (width> 700px) {
+    .ass{
+        display: none;
+    }
+  }

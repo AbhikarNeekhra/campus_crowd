@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Angkor&family=Kurale&family=Rubik+Dirt&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Angkor&family=Kurale&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Angkor&family=Kurale&family=Macondo&display=swap");
+
+.head-1 {
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.subtitle {
+  font-family: "Kurale", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.title {
+  font-family: "Acme", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

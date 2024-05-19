@@ -1,0 +1,9 @@
+.lily {
+  font-family: "Lily Script One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.grad {
+  background: linear-gradient(-45deg, #f09293, #aab0f2);
+}
